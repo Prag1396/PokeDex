@@ -7,8 +7,6 @@
 //
 
 import XCTest
-@testable import Pokedex
-
 class PokedexTests: XCTestCase {
     
     override func setUp() {
